@@ -1,5 +1,7 @@
 # TO DO LIST APP
 
+## Yayınlandı: https://630e438bdad2300f50b8dabe--keen-naiad-9a2405.netlify.app/
+
 ## To Do List Ekran Görüntüsü
 
 ![odevtodo1](https://user-images.githubusercontent.com/36435160/183658054-95b4ec8f-3799-4c06-b556-a722b8874f06.png)
